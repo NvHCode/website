@@ -1,8 +1,10 @@
-
 HelloFoo
+
+This is an edit from Niels
+This is an edit from Monte
+
 
 This is an edit from Monte, I am adjusting the edit to include something more here.
 
-Hi Niels, the idea is that we can create a merge conflict and that way we better understand how to fix this.
-
+	Hi Niels, the idea is that we can create a merge conflict and that way we better understand how to fix this.
 For clarity, this is a merge conflict in that we are both editing the same file.
